@@ -1,2 +1,8 @@
 # Arvutid2022
 Aine "Arvutid" mille sisu hõlmab käskude täitmise protsessi, erinevate arhitektuuride ülesehitust ja protsessori komponente. See hõlmab ka arvutimälu, sealhulgas klassifikatsiooni, hierarhiat, tehnoloogiaid ja mälukorraldust. Lisaks hõlmab see käske ja adresseerimist, sealhulgas käsuvorminguid, käsusüsteemi, adresseerimismeetodeid ja virtuaalset mälu. Lõpuks hõlmab see mikroarvuti riistvara, sealhulgas arhitektuuri, siine, andmevahetust, muid mikroarvuti komponente ja arvuti jõudluse suurendamist.
+
+Praegu ülikoolis IT õppiva inimesena mõtlesin, et oleks kasulik kirjutada selle aine teemal väike postitus. Selles postituses räägin sellest, mis on arvuti arhitektuur ja korraldus, mida kursusel käsitletakse ja miks see oluline on.
+Arvuti arhitektuur ja korraldus on arvutite kavandamise ja ülesehituse uurimine. Kursusel käsitletakse selliseid teemasid nagu arvutikomponendid, mälusüsteemid, I/O süsteemid ja protsessorite disain. Arvutiarhitektuuri ja -korralduse uurimine on oluline, sest see aitab meil mõista, kuidas arvutid töötavad ning kuidas kujundada tõhusamaid ja tõhusamaid arvuteid.
+Arvutiarhitektuuri ja -korralduse uurimise võib jagada kahte põhivaldkonda: riist- ja tarkvara. Arvuti riistvara on füüsilised komponendid, mis moodustavad masina, nagu protsessor, mälu ja I/O-seadmed. Arvuti tarkvara on juhiste kogum, mis ütleb riistvarale, mida teha. Tõhusate ja tõhusate arvutite kujundamiseks on oluline mõista nii riist- kui ka tarkvara.
+
+Kui olete huvitatud aine Arvutid õppimisest, soovitan teil vaadata oma ülikooli õppeainete lehte ja sarnane aine on kindlasti seal olemas. See on põnev teema, mis aitab teil mõista, kuidas arvutid töötavad ning kuidas kujundada tõhusamaid masinaid.
