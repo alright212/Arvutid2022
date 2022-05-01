@@ -1,1 +1,2 @@
 # Arvutid2022
+Aine "Arvutid" mille sisu hõlmab käskude täitmise protsessi, erinevate arhitektuuride ülesehitust ja protsessori komponente. See hõlmab ka arvutimälu, sealhulgas klassifikatsiooni, hierarhiat, tehnoloogiaid ja mälukorraldust. Lisaks hõlmab see käske ja adresseerimist, sealhulgas käsuvorminguid, käsusüsteemi, adresseerimismeetodeid ja virtuaalset mälu. Lõpuks hõlmab see mikroarvuti riistvara, sealhulgas arhitektuuri, siine, andmevahetust, muid mikroarvuti komponente ja arvuti jõudluse suurendamist.
